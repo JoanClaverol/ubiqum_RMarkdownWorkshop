@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1554210794307.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1256070114",
+    "id" : "1403DCCC",
+    "lastKnownWriteTime" : 1554216774,
+    "last_content_update" : 1554216774955,
+    "path" : "~/UbiqumCodeAcademy/workshops/RMarkdown/script/FirstRMarkdown.Rmd",
+    "project_path" : "script/FirstRMarkdown.Rmd",
+    "properties" : {
+        "cursorPosition" : "32,75",
+        "scrollLine" : "27",
+        "tempName" : "Untitled2"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
